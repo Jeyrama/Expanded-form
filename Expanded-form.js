@@ -30,4 +30,4 @@ function expandedForm(num) {
     arr[i] == 0 ? result.push() : result.push(arr[i] + ('0'.repeat(i)))
   }
   return result.reverse().join(' + ')
-}
+} 
