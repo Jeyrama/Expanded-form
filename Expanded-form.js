@@ -9,3 +9,6 @@ Example:
 
 NOTE: All numbers will be whole numbers greater than 0.
 */
+
+
+// Solution
